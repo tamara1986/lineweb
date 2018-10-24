@@ -1,0 +1,16 @@
+.clearfix:after{
+	content: '';
+	display: block;
+	clear: both;
+	height: 1px;
+	visibility: hidden;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(../aseti/slike/background.png);
+	background-position: center top;
+	font-family: Arial;
+
+}
+
